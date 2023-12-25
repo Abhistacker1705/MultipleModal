@@ -1,1 +1,1 @@
-##Focused on Researching in Multiple Models
+Focused on Researching in Multiple Models
